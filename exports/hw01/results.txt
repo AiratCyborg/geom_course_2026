@@ -1,0 +1,6 @@
+pressure_matrix.shape = (13, 2)
+pressure_cube.shape   = (2, 13, 2)
+pressure_mpa: min=9.42, max=12.0, mean=10.75
+radius_m: min=5.0, max=500.0, mean=150.71428571428572
+thickness_m: min=2, max=7, mean=4.5
+porosity_fraction: min=0.15, max=0.24, mean=0.195
