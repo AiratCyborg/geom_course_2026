@@ -22,6 +22,8 @@ figures/*
 !figures/hw0[2-5]/**
 !figures/hw07/
 !figures/hw07/**
+!figures/hw08/
+!figures/hw08/**
 exports/*
 !exports/.gitkeep
 !exports/hw01/
