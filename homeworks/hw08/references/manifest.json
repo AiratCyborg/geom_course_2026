@@ -1,0 +1,68 @@
+[
+  {
+    "variant": 1,
+    "mechanics": "Консольная балка",
+    "fluids": "Труба с изменением сечения и высоты",
+    "reference": "v01.png"
+  },
+  {
+    "variant": 2,
+    "mechanics": "Балка с распределённой нагрузкой",
+    "fluids": "Резервуар с выходящей струёй",
+    "reference": "v02.png"
+  },
+  {
+    "variant": 3,
+    "mechanics": "Брусок на наклонной плоскости",
+    "fluids": "U-образный манометр",
+    "reference": "v03.png"
+  },
+  {
+    "variant": 4,
+    "mechanics": "Блок с двумя грузами",
+    "fluids": "Колено трубопровода",
+    "reference": "v04.png"
+  },
+  {
+    "variant": 5,
+    "mechanics": "Двухстержневая конструкция",
+    "fluids": "Сужение трубы с пьезометрами",
+    "reference": "v05.png"
+  },
+  {
+    "variant": 6,
+    "mechanics": "Стержень с удерживающим тросом",
+    "fluids": "Схема течения между пластинами",
+    "reference": "v06.png"
+  },
+  {
+    "variant": 7,
+    "mechanics": "Маятник",
+    "fluids": "Профиль скорости в круглой трубе",
+    "reference": "v07.png"
+  },
+  {
+    "variant": 8,
+    "mechanics": "Груз и пружина",
+    "fluids": "Сообщающиеся сосуды",
+    "reference": "v08.png"
+  },
+  {
+    "variant": 9,
+    "mechanics": "Диск с силами и моментом",
+    "fluids": "Затвор в стенке резервуара",
+    "reference": "v09.png"
+  },
+  {
+    "variant": 10,
+    "mechanics": "Лестница у стены",
+    "fluids": "Разветвление трубопровода",
+    "reference": "v10.png"
+  },
+  {
+    "variant": 11,
+    "mechanics": "Кривошип и ползун",
+    "fluids": "Скважина в пористой области",
+    "reference": "v11.png"
+  }
+]
